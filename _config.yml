@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Soram Lee"
-  avatar           : "images/KakaoTalk_20211128_224715421.jpg", e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/KakaoTalk_20211128_224715421.jpg" #, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SNU GSDS MS Student (2021 ~ ) <br> LG CNS MachineLearning Engineer (2017 ~ 2021)"
   location         : "Seoul, Korea"
   email            :
